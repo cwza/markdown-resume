@@ -58,9 +58,9 @@
     + Java
         - Spring, OpenJPA, Maven
     + Javascript
-        - NodeJS, ExpressJS
+        - NodeJS, ExpressJS, Google OAuth2.0, jwt
 * Web Frontend
-    + ES6 & ES7 Javascript, React, Redux, Bootstrap
+    + ES6 & ES7 Javascript, React, Redux, Bootstrap, Redux-Saga, Google Oauth2.0
 * Database
     + Oracle, PostgreSql
 * Server
@@ -80,7 +80,7 @@
 
 ### My Small JS Skill Demo Project {#degree}
 
-以下是空閒時間自己寫的Little Twitter Like Site
+以下是空閒時間自己寫的small Twitter Like App(JS skill demo purpose)  
 [https://cwza.github.io/faceblock-client/](https://cwza.github.io/faceblock-client/)
 
 是一個包含Backend與Frontend的系統，Source Code放在我的Github上有興趣可以參考

@@ -23,12 +23,12 @@ International Integrated Systems, Inc. - Telecom Business Dept.
 
 * CHT 4G Online Charging System Gateway
     + Pure Backend Http API Server（Spring + Maven + PostgreSql）
-    + Developed modules interact with internal systems of Ericsson and CHT. (DNS, XML-RPC, Ldap, Snmp, SOAP)
-    + Developed and implemented CHT 4G Promotion charging Logic
+    + Develop modules interact with internal systems of Ericsson and CHT. (DNS, XML-RPC, Ldap, Snmp, SOAP)
+    + Develop and implement CHT 4G Promotion charging Logic
 * Vod Structure Management Tool
     + Fullstack Http & SOAP Server（Spring + JSP + Maven + Oracle）
-    + Developed modules interact with internal systems of Ericsson and CHT. (Soap, Sftp, http)
-    + Developed and implemented batch module and batch logic
+    + Develop modules interact with internal systems of Ericsson and CHT. (Soap, Sftp, http)
+    + Develop and implement batch module and batch logic
 * MOD Provision Gateway
     + Pure Backend Http API Server（Spring + Maven + Oracle）
     + System maintenance and post-development
@@ -58,9 +58,9 @@ International Integrated Systems, Inc. - Telecom Business Dept.
     + Java
         - Spring, OpenJPA, Maven
     + Javascript
-        - NodeJS, ExpressJS
+        - NodeJS, ExpressJS, Google OAuth2.0, jwt
 * Web Frontend
-    + ES6 & ES7 Javascript, React, Redux, Bootstrap
+    + ES6 & ES7 Javascript, React, Redux, Bootstrap, Redux-Saga, Google Oauth2.0
 * Database
     + Oracle, PostgreSql
 * Server
@@ -78,13 +78,14 @@ Bachelor of Computer Science, 2006-2010
 
 ------
 
-### My Small JS Skill Demo Project {#degree}
+### My Small JS Skill Demo Web App {#degree}
 
-This little Twttier like site is my self project which was develped in my free time.
+This small Twittier like app is developed for JS skill demo purpose.  
+It is developed at my free time.  
 [https://cwza.github.io/faceblock-client/](https://cwza.github.io/faceblock-client/)
 
-It is a full-stack system by backend api server and frontend SPA.  
-The Full Souce code is at my github.
+This app is a full-stack system with backend api server and frontend SPA.  
+The Full Source code is at my github.
 
 * RestFul API Server (NodeJS + ExpressJS + PostgreSql)
   [Github: Server-Side](https://github.com/cwza/faceblock-server)
