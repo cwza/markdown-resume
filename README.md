@@ -24,5 +24,5 @@ npm run deploy
 ```
 
 ## Deployed Resume is at following path
-https://cwza.github.io/markdown-resume/cwzEnResume.html 
+https://cwza.github.io/markdown-resume/cwzEnResume.html   
 https://cwza.github.io/markdown-resume/cwzZhResume.html
