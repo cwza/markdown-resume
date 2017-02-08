@@ -38,8 +38,8 @@ International Integrated Systems, Inc. - Telecom Business Dept.
 ### Skills {#skills}
 
 * Java Backend Web Development
-    + Experienced in using Spring, Maven and RDBMS to implement API Server
-    + Experienced in using Spring Batch to implement Batch System
+    + Experience in using Spring, Maven and RDBMS to implement API Server
+    + Experience in using Spring Batch to implement Batch System
     + API interface module implementation（SOAP, XML-RPC, Ldap, Snmp, Json, Rest）
     + Deploy with linux and Glassfish Server
 
