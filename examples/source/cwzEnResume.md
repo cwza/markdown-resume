@@ -48,7 +48,7 @@ International Integrated Systems, Inc. - Telecom Business Dept.
 
 * ExpressJs Backend Web Development
     + Use Express and PostgreSql to implement Restful API Server
-    + Deploy App with Linux and Nginx
+    + Deploy app to Ditital Ocean with linux and Nginx
 
 -------
 

@@ -48,7 +48,7 @@
 
 * ExpressJs Backend Web Development
     + 使用Express + PostgreSql實作Restful API Server
-    + Deploy app with linux and Nginx
+    + Deploy app to Ditital Ocean with linux and Nginx
 
 -------
 
