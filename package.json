@@ -2,7 +2,7 @@
   "name": "markdown-resume",
   "version": "1.0.0",
   "scripts": {
-    "start": "./bin/md2resume html examples/source/cwzZhResume.md examples/output/ && ./bin/md2resume html examples/source/cwzEnResume.md examples/output/",
+    "start": "./bin/md2resume html  --template readable examples/source/cwzZhResume.md examples/output/ && ./bin/md2resume html  --template readable examples/source/cwzEnResume.md examples/output/",
     "deploy": "gh-pages -d ./examples/output"
   },
   "license": "ISC",

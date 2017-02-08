@@ -20,5 +20,9 @@ npm start
 ## deploy to github page
 This command will deploy all files at ./examples/output to github pages at gh-pages branch
 ``` sh
-npm deploy
+npm run deploy
 ```
+
+## Deployed Resume is at following path
+https://cwza.github.io/markdown-resume/cwzEnResume.html
+https://cwza.github.io/markdown-resume/cwzZhResume.html
