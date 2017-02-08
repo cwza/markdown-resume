@@ -1,0 +1,12 @@
+{
+  "name": "markdown-resume",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "./bin/md2resume html examples/source/cwzZhResume.md examples/output/ && ./bin/md2resume html examples/source/cwzEnResume.md examples/output/",
+    "deploy": "gh-pages -d ./examples/output"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^0.12.0"
+  }
+}
