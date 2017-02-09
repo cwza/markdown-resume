@@ -2,7 +2,7 @@
 ## Java & Javascript Web Developer
 > [cwz0205a@gmail.com](mailto:cwz0205a@gmail.com)  
 > 0937-078-593  
-> 新北市蘆洲區中山一路162號7F  
+> 台灣新北市蘆洲區  
 
 ------
 

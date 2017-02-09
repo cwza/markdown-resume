@@ -2,7 +2,7 @@
 ## Java & Javascript Web Developer
 > [cwz0205a@gmail.com](mailto:cwz0205a@gmail.com)  
 > 0937-078-593  
-> 7F., No.162, Zhongshan 1st Rd., Luzhou Dist., New Taipei City 247, Taiwan (R.O.C.)  
+> Luzhou Dist., New Taipei City 247, Taiwan (R.O.C.)  
 
 ------
 
