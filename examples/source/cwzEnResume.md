@@ -42,10 +42,8 @@ International Integrated Systems, Inc. - Telecom Business Dept.
     + Experience in using Spring Batch to implement Batch System
     + API interface module implementation（SOAP, XML-RPC, Ldap, Snmp, Json, Rest）
     + Deploy with linux and Glassfish Server
-
 * React Frontend Web Development
     + Use React and Redux to implement Frontend Single Page App
-
 * ExpressJs Backend Web Development
     + Use Express and PostgreSql to implement Restful API Server
     + Deploy app to Ditital Ocean with linux and Nginx

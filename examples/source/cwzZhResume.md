@@ -42,10 +42,8 @@
     + 使用Spring Batch實作排程系統
     + 各種API介接模組實作（SOAP, XML-RPC, Ldap, Snmp, Json, Rest）
     + Deploy with linux and Glassfish Server
-
 * React Frontend Web Development
     + 使用React + Redux架構實作Frontend Single Page App
-
 * ExpressJs Backend Web Development
     + 使用Express + PostgreSql實作Restful API Server
     + Deploy app to Ditital Ocean with linux and Nginx
