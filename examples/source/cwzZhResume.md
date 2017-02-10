@@ -9,7 +9,7 @@
 ### Summary {#summary}
 
 * 三年Java Web Backend開發經驗（Spring + Maven + RDBMS）
-* 使用Node + Express + React + Redux開發一個小型JS技術demo用Web App(可參照下面的My Small JS Skill Demo Project部分)
+* 使用Node + Express + React + Redux開發一個小型JS技術demo用Web App(可參照下面的Small JS Skill Demo Project部分)
 * 學習並使用各種新工具加速改善開發
 * Pair coding and Team coding experience
 
@@ -76,9 +76,9 @@
 
 ------
 
-### My Small JS Skill Demo Project {#degree}
+### Small JS Skill Demo Project {#degree}
 
-以下是空閒時間自己寫的small Twitter Like App(JS skill demo purpose)  
+以下是空閒時間自己寫的small Twitter like app(JS skill demo purpose)  
 [https://cwza.github.io/faceblock-client/](https://cwza.github.io/faceblock-client/)
 
 是一個包含Backend與Frontend的系統，Source Code放在我的Github上有興趣可以參考

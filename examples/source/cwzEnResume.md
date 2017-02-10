@@ -9,7 +9,7 @@
 ### Summary {#summary}
 
 * Three years Java Web backend development experience（Spring + Maven + RDBMS）
-* Use Node, Express, React and Redux to develop a small JS skill demo Web App(see My Small JS Skill Demo Project section)
+* Use Node, Express, React and Redux to develop a small JS skill demo Web App(see Small JS Skill Demo Project section)
 * Learn and use new tools to develop quick and better
 * Pair coding and Team coding experience
 
@@ -76,7 +76,7 @@ Bachelor of Computer Science, 2006-2010
 
 ------
 
-### My Small JS Skill Demo Web App {#degree}
+### Small JS Skill Demo Web App {#degree}
 
 This small Twittier like app is developed for JS skill demo purpose.  
 It is developed at my free time.  
